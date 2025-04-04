@@ -343,4 +343,3 @@ table(resultado.final$rejeitaH0.beta1.2)
 resultado.final %>% filter(rejeitaH0.beta0 == "Rejeita HO"| rejeitaH0.beta1 == "Rejeita H0") %>% nrow()
 
 
-ahsuahsU
